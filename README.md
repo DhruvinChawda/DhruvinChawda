@@ -1,3 +1,4 @@
+![logo](https://github.com/DhruvinChawda/DhruvinChawda/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dhruvin Chawda</h1>
 <h3 align="center">A passionate Data scientist and frontend developer from India</h3>
 
